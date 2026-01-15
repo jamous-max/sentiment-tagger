@@ -1,0 +1,22 @@
+[
+  {
+    "text": "i love this product",
+    "sentiment": "positive"
+  },
+  {
+    "text": "this service is terrible",
+    "sentiment": "negative"
+  },
+  {
+    "text": "the delivery was okay",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "amazing support team",
+    "sentiment": "positive"
+  },
+  {
+    "text": "not happy with the experience",
+    "sentiment": "negative"
+  }
+]
